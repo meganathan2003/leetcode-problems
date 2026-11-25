@@ -20,4 +20,5 @@ var numberOfLines = function (widths, s) {
     }
 
     return [lines, currentWidth];
+    
 };
